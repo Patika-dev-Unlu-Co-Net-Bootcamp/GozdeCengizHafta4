@@ -1,0 +1,122 @@
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/appsettings.json
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.exe
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.deps.json
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.runtimeconfig.json
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.runtimeconfig.dev.json
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/ref/NewsletterProject.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/NewsletterProject.pdb
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.AssemblyReference.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.AssemblyInfoInputs.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.AssemblyInfo.cs
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.CoreCompileInputs.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/scopedcss/bundle/NewsletterProject.styles.css
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/staticwebassets/NewsletterProject.StaticWebAssets.Manifest.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.RazorTargetAssemblyInfo.cache
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.CopyComplete
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/ref/NewsletterProject.dll
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.pdb
+C:/Users/çağatayın wd su/source/repos/NewsletterProject/NewsletterProject/obj/Debug/net5.0/NewsletterProject.genruntimeconfig.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/appsettings.Development.json
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/appsettings.json
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/NewsletterProject.deps.json
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/NewsletterProject.runtimeconfig.json
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/NewsletterProject.runtimeconfig.dev.json
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/NewsletterProject.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/ref/NewsletterProject.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/NewsletterProject.pdb
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.AssemblyReference.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.AssemblyInfoInputs.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.AssemblyInfo.cs
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.CoreCompileInputs.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/staticwebassets/NewsletterProject.StaticWebAssets.Manifest.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/staticwebassets/NewsletterProject.StaticWebAssets.xml
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/scopedcss/bundle/NewsletterProject.styles.css
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.RazorTargetAssemblyInfo.cache
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.csproj.CopyComplete
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/ref/NewsletterProject.dll
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.pdb
+/Users/gozdecengiz/Downloads/GozdeCengiz.Hafta1-main/NewsletterProject/obj/Debug/net5.0/NewsletterProject.genruntimeconfig.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.csproj.AssemblyReference.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.AssemblyInfoInputs.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.AssemblyInfo.cs
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.csproj.CoreCompileInputs.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\ref\NewsletterProject.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\appsettings.json
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.StaticWebAssets.xml
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.exe
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.deps.json
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.runtimeconfig.json
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.runtimeconfig.dev.json
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\ref\NewsletterProject.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\NewsletterProject.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\scopedcss\bundle\NewsletterProject.styles.css
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\staticwebassets\NewsletterProject.StaticWebAssets.Manifest.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.RazorTargetAssemblyInfo.cache
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.csproj.CopyComplete
+C:\Users\gozde\source\repos\GozdeCengiz.Hafta2\NewsletterProject\obj\Debug\net5.0\NewsletterProject.genruntimeconfig.cache
